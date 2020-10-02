@@ -14,7 +14,6 @@ import ArticleList120918Navigator from '../features/ArticleList120918/navigator'
 import ArticleList120901Navigator from '../features/ArticleList120901/navigator';
 import ArticleList120900Navigator from '../features/ArticleList120900/navigator';
 import ArticleList120899Navigator from '../features/ArticleList120899/navigator';
-import SignIn11120898Navigator from '../features/SignIn11120898/navigator';
 
 /**
  * new navigators can be imported here
@@ -32,7 +31,6 @@ ArticleList120918: { screen: ArticleList120918Navigator },
 ArticleList120901: { screen: ArticleList120901Navigator },
 ArticleList120900: { screen: ArticleList120900Navigator },
 ArticleList120899: { screen: ArticleList120899Navigator },
-SignIn11120898: { screen: SignIn11120898Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
